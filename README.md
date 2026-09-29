@@ -3,7 +3,7 @@
 RelayGrid is a deterministic Python toolkit for distribution-grid operations.
 It covers feeder topology, protection, voltage assessment, DER islanding,
 switching safety, outage accounting, crew logistics, asset thermal limits,
-telemetry quality, storage dispatch, and restoration sequencing.
+telemetry quality, power-quality attribution, storage dispatch, and restoration sequencing.
 
 The package is self-contained and uses only the Python standard library.
 
